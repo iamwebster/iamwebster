@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,python,postgres,docker,linux,git,html,css," />
+    <img src="https://skillicons.dev/icons?i=django,python,postgres,docker,linux,git,html,css" />
   </a>
 </p>
 
