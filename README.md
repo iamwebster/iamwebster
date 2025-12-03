@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi there, I'm Denis Kopylov
+# 👋 Hi there, I'm Denis
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+React+%7C+FastAPI;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+React+%7C+FastAPI;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -63,41 +63,6 @@
 ### Environment
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamwebster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamwebster&theme=tokyonight&hide_border=true" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwebster&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Key Skills
-
-```python
-developer_skills = {
-    "backend": ["Python", "FastAPI", "Django", "Aiogram"],
-    "frontend": ["React", "JavaScript"],
-    "async": ["asyncio", "aiohttp", "async/await"],
-    "databases": ["PostgreSQL", "Redis", "MongoDB"],
-    "devops": ["Docker", "Docker Compose", "Linux"],
-    "tools": ["Git", "Postman", "Bash"],
-    "ai_tools": ["ChatGPT", "Claude Code"],
-    "languages": ["Russian (Native)", "English (Professional)"],
-    "environment": ["macOS", "Linux"],
-}
-```
 
 </div>
 
