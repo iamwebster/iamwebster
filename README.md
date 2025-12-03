@@ -72,9 +72,11 @@
 
 ## 🚀 Interests
 
-🎮 **Game Development** | 🤖 **Artificial Intelligence** | 📚 **Technical Reading**
+🤖 **Artificial Intelligence & Neural Networks** | 🎮 **Game Development** | 📚 **Technical Reading**
 
 ⚙️ **Process Automation** | 🔧 **Open Source** | 🧠 **Machine Learning**
+
+💼 **Business** | 📊 **Marketing** | 💰 **Economics**
 
 </div>
 
